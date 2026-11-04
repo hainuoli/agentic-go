@@ -325,7 +325,7 @@ defer server.Close()
 - [ ] 我知道 Git 分支、Commit、Push、PR 的区别。
 - [ ] 我能在代码、提交记录与日志中排除 Token 泄露。
 
-完成后进入 [01 · LLM Basics](./01-LLM-Basics-with-Go.md)。
+完成后进入 [01 · LLM Basics](./01-LLM-Basics.md)。
 
 ### 推荐进一步阅读
 
