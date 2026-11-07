@@ -1,0 +1,9 @@
+[
+    {"input":"我被扣款两次","want":"billing"},
+    {"input":"发票上的金额不对","want":"billing"},
+    {"input":"按下登录后画面全白","want":"bug"},
+    {"input":"更新后一直闪退","want":"bug"},
+    {"input":"你们周末上班吗","want":"other"},
+    {"input":"谢谢你帮我处理","want":"other"}
+  ]
+  
